@@ -1,3 +1,8 @@
+#Personal Notes
+This was taken from https://github.com/HashLips/generative-art-node
+I edited drawLayer in main.js in order to get an image from each individual layer option.
+Original code was skipping layers. It's not perfect but it worked for me.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +73,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
